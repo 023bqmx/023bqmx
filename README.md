@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **bombeamlazer@gmail.com**
 
-- 📄 My Portfolio [https://www.canva.com/design/DAG1OVZX41w/HRlODzpC1jji0PDD-ymzAA/edit?utm_content=DAG1OVZX41w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAG1OVZX41w/HRlODzpC1jji0PDD-ymzAA/edit?utm_content=DAG1OVZX41w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
