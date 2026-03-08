@@ -2,7 +2,7 @@
 <h3 align="center"><p>Game Developer , Web Developer</p></h3>
 
 - 🌱 I’m currently learning **C# , Python , C , HTML , CSS , Js , ReactJs**
-
+- 🧠 Studying at KMITL.
 - 📫 How to reach me **bombeamlazer@gmail.com**
 
 
