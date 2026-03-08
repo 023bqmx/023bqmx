@@ -1,9 +1,7 @@
 <h1 align="center">Hi! 👯‍♂️, I'm Thanakrit Siriphol</h1>
 <h3 align="center"><p>Game Developer , Web Developer</p></h3>
 
-- 🌱 I’m currently learning **C# , Python , HTML , CSS , Js , ReactJs**
-
-- 👨‍💻 All of my projects are available at [https://bom08za.netlify.app/#profile](https://bom08za.netlify.app/#profile)
+- 🌱 I’m currently learning **C# , Python , C , HTML , CSS , Js , ReactJs**
 
 - 📫 How to reach me **bombeamlazer@gmail.com**
 
